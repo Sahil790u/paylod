@@ -4,8 +4,8 @@ import string
 from datetime import datetime
 
 # Telegram Bot Token aur Admin ID
-BOT_TOKEN = 'YOUR_BOT_TOKEN'  # Yahan apna Bot Token daalain
-ADMIN_ID = YOUR_ADMIN_ID      # Yahan apni Admin ID daalain (integer form mein)
+BOT_TOKEN = '7226582576:AAG1tAiH-OaqQmedlsb4ZPtgJ1653qWkHCk'  # Yahan apna Bot Token daalain
+ADMIN_ID =   6512242172   # Yahan apni Admin ID daalain (integer form mein)
 
 # Bot Object Create Karna
 sahil_bot = telebot.TeleBot(BOT_TOKEN)
